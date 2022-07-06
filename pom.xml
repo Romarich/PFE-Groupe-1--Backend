@@ -95,7 +95,7 @@
 		<dependency>
 		    <groupId>org.mindrot</groupId>
 		    <artifactId>jbcrypt</artifactId>
-		    <version>0.3m</version>
+		    <version>0.4</version>
 		</dependency>
 		<!-- Allow to launch automaticaly spring when we save a file  -->
 		<dependency>
